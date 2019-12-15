@@ -1,5 +1,5 @@
 # MECH2110-2019
-These labs run in a second year mechanical design course, they are intended to support students attempting the Warman Design and Build Competition.
+These labs run in a second year mechanical design course at the University of Newcastle Australia, they are intended to support students attempting the Warman Design and Build Competition.
 This project is licensed under the terms of the GNU AFFERO GENERAL PUBLIC LICENSE, Version 3.
 
 ## Warman Competition
